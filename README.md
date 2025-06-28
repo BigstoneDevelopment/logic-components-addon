@@ -1,2 +1,2 @@
 # Bigstone-logic-components
-All default the Bigstone components for Bigstone Sandbox.
+All logic components in Bigstone Sandbox!
