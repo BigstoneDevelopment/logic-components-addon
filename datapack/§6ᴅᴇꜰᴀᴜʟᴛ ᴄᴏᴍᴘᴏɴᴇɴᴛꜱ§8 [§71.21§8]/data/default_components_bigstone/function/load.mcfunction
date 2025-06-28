@@ -1,1 +1,0 @@
-schedule function default_components_bigstone:add_components 2s

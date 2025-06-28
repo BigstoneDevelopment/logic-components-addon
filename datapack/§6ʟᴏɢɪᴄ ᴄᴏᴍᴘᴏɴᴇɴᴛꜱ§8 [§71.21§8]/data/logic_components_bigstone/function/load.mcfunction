@@ -1,0 +1,1 @@
+schedule function logic_components_bigstone:add_components 2s
